@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Hide LinkedIn Ads",
+  "version": "0.0.1",
+  "description": "This Chrome browser extension hides ads on LinkedIn.",
+   "permissions": ["scripting"],
+  "icons": {
+    "16": "images/no-ads-emoji-16.png",
+    "32": "images/no-ads-emoji-32.png",
+    "48": "images/no-ads-emoji-48.png",
+    "128": "images/no-ads-emoji-128.png"
+},
+"background": {
+    "service_worker": "scripts/background.js"
+},
+"web_accessible_resources": [
+  {
+    "resources": ["css/*.css"],
+    "extension_ids": [
+
+    ]
+    }
+  ],
+"content_scripts": [
+    {
+        "matches": [
+        "*://*.linkedin.com/*"
+      ],
+      "css": ["css/global.css"]
+    }
+],
+  "host_permissions": [
+    "*://*.linkedin.com/*"
+  ],
+  "action": {
+      "default_popup": "popup.html"
+  }
+
+}
