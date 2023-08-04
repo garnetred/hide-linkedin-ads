@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Disable Hulu Trailers",
+  "name": "Hide LinkedIn Ads",
   "version": "0.0.1",
-  "description": "This Chrome browser extension disables the autoplaying video trailers on the Hulu home page.",
+  "description": "This Chrome browser extension hides ads on LinkedIn.",
    "permissions": ["scripting"],
   "icons": {
     "16": "images/no-ads-emoji-16.png",
@@ -17,7 +17,7 @@
   {
     "resources": ["css/*.css"],
     "extension_ids": [
-      ""
+
     ]
     }
   ],
