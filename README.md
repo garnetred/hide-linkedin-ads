@@ -1,4 +1,4 @@
-# Browser Extension Tempalte
+# Hide LinkedIn Ads
 
 ## Abstract
 
