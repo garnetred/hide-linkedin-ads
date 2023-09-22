@@ -2,3 +2,7 @@
 div.feed-shared-update-v2:has(div):has(div.update-components-actor):has(.app-aware-link):has(div.update-components-actor__meta):has(span.update-components-actor__sub-description):has(span.visually-hidden):has(span[aria-hidden="true"]):has(span):not(:has([type="globe-americas"])){
   display: none !important;
 }
+
+div.feed-shared-update-v2:has(div):has(div.update-components-actor):has(.app-aware-link):has(div.update-components-actor__meta):has(span.update-components-actor__sub-description):not(:has(div.update-components-text-view)){
+  display: none !important;
+}
