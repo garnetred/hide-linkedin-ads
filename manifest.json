@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Hide LinkedIn Ads",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This Chrome browser extension hides ads on LinkedIn.",
    "permissions": ["scripting"],
   "icons": {
