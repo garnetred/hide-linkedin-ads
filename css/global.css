@@ -6,16 +6,3 @@ div.feed-shared-update-v2:has(div):has(div.update-components-actor):has(.app-awa
 div.feed-shared-update-v2:has(div):has(div.update-components-actor):has(.app-aware-link):has(div.update-components-actor__meta):has(span.update-components-actor__sub-description):not(:has(div.update-components-text-view)){
   display: none !important;
 }
-/*
-.donation-text {
-  color: blue;
-}
-
-.link-text {
-  font-weight: bold;
-}
-
-.popup-window {
-  width: 200px;
-} */
-
