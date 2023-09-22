@@ -1,7 +1,7 @@
 # Hide LinkedIn Ads
 
 ## Abstract
-This Chrome browser extension hides ads on LinkedIn. 
+This Chrome browser extension works as an adblocker to block and hide ads on LinkedIn. 
 
 ## Donate 
 You can support this extension by [buying me a coffee](https://www.buymeacoffee.com/decemberthedeveloper) to help me continue to make free, user-friendly browser extensions.
