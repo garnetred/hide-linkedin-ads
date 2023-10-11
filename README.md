@@ -1,10 +1,10 @@
 # Hide LinkedIn Ads
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/decemberthedeveloper)
+
+
 ## Abstract
 This Chrome browser extension works as an adblocker to block and hide ads on LinkedIn. 
-
-## Donate 
-You can support this extension by [buying me a coffee](https://www.buymeacoffee.com/decemberthedeveloper) to help me continue to make free, user-friendly browser extensions.
 
 ## Chrome Web Store
 This extension is now available via the [Chrome Web Store](https://chrome.google.com/webstore/detail/hide-linkedin-ads/alfpbpbopicnfllpimeniedbhdinhnla). 
